@@ -1,0 +1,130 @@
+
+<link rel="stylesheet" href="index.css" charset="utf-8">
+<link rel="stylesheet" href="mobile.css" charset="utf-8">
+
+body {
+padding: 0px 20px 0px 20px;
+}
+
+p {
+  background: rgba(0, 0, 0 ,0.6);
+}
+
+.index{
+  background-image: url("index.png");
+  background-size: 100%;
+  background-color: black ;
+  font-family:'Coming Soon', cursive;
+  font-size: 17px;
+  color: white;
+
+}
+.JM{
+  background-image: url("jeffersonmanor.jpg");
+  background-size: 100% ;
+  background-color: black ;
+  font-family:'Coming Soon', cursive;
+  font-size: 17px;
+  color: white;
+}
+
+.TV{
+  background-image: url("thevilla.png");
+  background-size: 100% ;
+  background-color: black ;
+  font-family:'Coming Soon', cursive;
+  font-size: 17px;
+  color: white;
+}
+
+.PS{
+  background-image: url("psychoshock.jpg");
+  background-size: 100% ;
+  background-color: black ;
+  font-family:'Coming Soon', cursive;
+  font-size: 17px;
+  color: white;
+}
+
+.HH{
+  background-image: url("hauntedholidays.png");
+  background-size: 100% ;
+  background-color: black ;
+  font-family:'Coming Soon', cursive;
+  font-size: 17px;
+  color: white;
+  }
+
+.TC{
+  background-image: url("theclinic.jpg");
+  background-size: 100% ;
+  background-color: black ;
+  font-family:'Coming Soon', cursive;
+  font-size: 17px;
+  color: white;
+  }
+
+div.menubar > ul {
+list-style-type: none;
+margin: 0;
+background-color:rgba(191, 0, 0, 0.4);
+color: #fff ;
+  }
+
+a.link {
+color: yellow
+  }
+
+div.menubar > ul > a > li {
+    display: inline-block;
+    padding: 15px;
+    overflow: hidden;
+    color: white;
+  }
+
+div.menubar > ul > a > li:hover {
+      background-color: #737373;
+  }
+#index:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+
+}
+
+#JeffersonManor:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+
+#TheVilla:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+#PsychoShock:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+#HauntedHolidays:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+#TheClinic:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+::selection {
+background: #ee2c2c ;
+}
+
+::-webkit-selection {
+background:  #ee2c2c ;
+}
+
+::-moz-selection {
+background: #ee2c2c;
+}

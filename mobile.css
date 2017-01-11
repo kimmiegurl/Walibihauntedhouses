@@ -1,0 +1,1182 @@
+@media screen and (max-width: 500px) {
+
+  body {
+  background-image: none;
+  background-color: black;
+  margin: 30px 2px 30px 2px;
+  padding: 0px 20px 0px 20px;
+  font-family:'Coming Soon', cursive;
+  font-size: 15px;
+  color: #af111c;
+  }
+  head {
+  font-family:'Coming Soon', cursive;
+  font-size: 15px;
+  color: #af111c;
+  }
+}
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+   {
+     body {
+     background-image: none;
+     background-color: black;
+     margin: 30px 2px 30px 2px;
+     padding: 0px 20px 0px 20px;
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+     head {
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
+
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+     {
+       body {
+       background-image: none;
+       background-color: black;
+       margin: 30px 2px 30px 2px;
+       padding: 0px 20px 0px 20px;
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+       head {
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+     {
+       body {
+       background-image: none;
+       background-color: black;
+       margin: 30px 2px 30px 2px;
+       padding: 0px 20px 0px 20px;
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+       head {
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* ----------- Galaxy S3 ----------- */
+
+/* Portrait and Landscape */
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* Portrait */
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* ----------- Galaxy S4 ----------- */
+
+/* Portrait and Landscape */
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* Portrait */
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* ----------- Galaxy S5 ----------- */
+
+/* Portrait and Landscape */
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* Portrait */
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+/* ----------- HTC One ----------- */
+
+/* Portrait and Landscape */
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+     {
+       body {
+       background-image: none;
+       background-color: black;
+       margin: 30px 2px 30px 2px;
+       padding: 0px 20px 0px 20px;
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+       head {
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+
+}
+
+/* Portrait */
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive ;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+   {
+     body {
+     background-image: none;
+     background-color: black;
+     margin: 30px 2px 30px 2px;
+     padding: 0px 20px 0px 20px;
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+     head {
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+ {
+   body {
+   background-image: none;
+   background-color: black;
+   margin: 30px 2px 30px 2px;
+   padding: 0px 20px 0px 20px;
+   font-family:'Coming Soon', cursive;
+   font-size: 15px;
+   color: #af111c;
+   }
+   head {
+   font-family:'Coming Soon', cursive;
+   font-size: 15px;
+   color: #af111c;
+   }
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+     {
+       body {
+       background-image: none;
+       background-color: black;
+       margin: 30px 2px 30px 2px;
+       font-family:'Coming Soon', cursive;
+       padding: 0px 20px 0px 20px;
+       font-size: 15px;
+       color: #af111c;
+       }
+       head {
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: portrait)
+     {
+       body {
+       background-image: none;
+       background-color: black;
+       margin: 30px 2px 30px 2px;
+       padding: 0px 20px 0px 20px;
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+       head {
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (orientation: landscape)
+     {
+       body {
+       background-image: none;
+       background-color: black;
+       margin: 30px 2px 30px 2px;
+       padding: 0px 20px 0px 20px;
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+       head {
+       font-family:'Coming Soon', cursive;
+       font-size: 15px;
+       color: #af111c;
+       }
+
+}
+/* ----------- Galaxy Tab 10.1 ----------- */
+
+/* Portrait and Landscape */
+@media
+  (min-device-width: 800px)
+  and (max-device-width: 1280px) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Portrait */
+@media
+  (max-device-width: 800px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media
+  (max-device-width: 1280px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+/* ----------- Asus Nexus 7 ----------- */
+
+/* Portrait and Landscape */
+@media screen
+  and (device-width: 601px)
+  and (device-height: 906px)
+    {
+      body {
+      background-image: none;
+      background-color: black;
+      margin: 30px 2px 30px 2px;
+      padding: 0px 20px 0px 20px;
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+      head {
+      font-family:'Coming Soon', cursive;
+      font-size: 15px;
+      color: #af111c;
+      }
+
+}
+
+/* Portrait */
+@media screen
+  and (device-width: 601px)
+  and (device-height: 906px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* Landscape */
+@media screen
+  and (device-width: 601px)
+  and (device-height: 906px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+/* ----------- Kindle Fire HD 7" ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 800px)
+  and (max-device-width: 1280px)
+   {
+     body {
+     background-image: none;
+     background-color: black;
+     margin: 30px 2px 30px 2px;
+     padding: 0px 20px 0px 20px;
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+     head {
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 800px)
+  and (max-device-width: 1280px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 800px)
+  and (max-device-width: 1280px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+/* ----------- Kindle Fire HD 8.9" ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+   {
+     body {
+     background-image: none;
+     background-color: black;
+     margin: 30px 2px 30px 2px;
+     padding: 0px 20px 0px 20px;
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+     head {
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+
+}
+
+/* Portrait */
+@media only screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (orientation: portrait) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+}
+
+/* Landscape */
+@media only screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (orientation: landscape) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+/* ----------- Non-Retina Screens ----------- */
+@media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+   {
+     body {
+     background-image: none;
+     background-color: black;
+     margin: 30px 2px 30px 2px;
+     padding: 0px 20px 0px 20px;
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+     head {
+     font-family:'Coming Soon', cursive;
+     font-size: 15px;
+     color: #af111c;
+     }
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+
+  and (min-resolution: 192dpi) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+}
+
+/* ----------- Apple Watch ----------- */
+@media
+  (max-device-width: 42mm)
+  and (min-device-width: 38mm) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+/* ----------- Moto 360 Watch ----------- */
+@media
+  (max-device-width: 218px)
+  and (max-device-height: 281px) {
+    body {
+    background-image: none;
+    background-color: black;
+    margin: 30px 2px 30px 2px;
+    padding: 0px 20px 0px 20px;
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+    head {
+    font-family:'Coming Soon', cursive;
+    font-size: 15px;
+    color: #af111c;
+    }
+
+}
+
+
+}
+div.menubar > ul {
+list-style-type: none;
+margin: 0;
+background-color:rgba(191, 0, 0, 0.4);
+color: #fff ;
+  }
+
+a.link {
+color: yellow
+  }
+
+div.menubar > ul > a > li {
+    display: inline-block;
+    padding: 15px;
+    overflow: hidden;
+    color: white;
+
+  }
+
+div.menubar > ul > a > li:hover {
+      background-color: #737373;
+  }
+#index:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+
+
+}
+
+#JeffersonManor:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+
+#TheVilla:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+#PsychoShock:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+#HauntedHolidays:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+#TheClinic:active {
+  transform: scale(0.6);
+  transition-duration: 0,2s ;
+}
+
+::selection {
+background: #ee2c2c ;
+}
+
+::-webkit-selection {
+background:  #ee2c2c ;
+}
+
+::-moz-selection {
+background: #ee2c2c;
+}
